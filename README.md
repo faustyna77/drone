@@ -8,7 +8,9 @@ Dron z kontrolerem lotu BetaFlight
 Faustyna Misiura 119041 Informatyka 4 rok 
 
 
+[Raport_dron.docx](https://github.com/user-attachments/files/23383102/Raport_dron.docx)
 
+[Raport_dron-1.pdf](https://github.com/user-attachments/files/23383293/Raport_dron-1.pdf)
 
 
 
